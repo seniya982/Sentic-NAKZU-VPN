@@ -19,6 +19,7 @@
 * **Remastered & UI/API Engineered By:** Eng. Seniru Ransara (Lead Developer)
 * **Staff team:** Supeshala & Shehan
 * **Powered By:** [Sentic Hosting](https://sentic.store)
+* **Sentic NAKZU v1 Downlode:** [Downlode Now](https://github.com/seniya982/Sentic-NAKZU-VPN/releases/tag/v1.0.0)
 
 ---
 *Secure • Fast • Reliable* | Crafted in Sri Lanka 🇱🇰
