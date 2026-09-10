@@ -17,6 +17,7 @@
 
 ## 👨‍💻 Credits & Acknowledgments
 * **Remastered & UI/API Engineered By:** Eng. Seniru Ransara (Lead Developer)
+* **Staff team:** Supeshala & Shehan
 * **Powered By:** [Sentic Hosting](https://sentic.store)
 
 ---
