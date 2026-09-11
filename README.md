@@ -18,7 +18,8 @@
 ## 👨‍💻 Credits & Acknowledgments
 * **Remastered & UI/API Engineered By:** Eng. Seniru Ransara (Lead Developer)
 * **Staff team:** Supeshala & Shehan
-* **Powered By:** [Sentic Hosting](https://sentic.store)
+> **Powered by:** [Sentic Hosting](https://sentic.store) | *Secure • Fast • Reliable*
+> **Discord Link**: https://discord.gg/wK69N5x6xk
 * **Sentic NAKZU v1 Download :** [Download  Now](https://release-assets.githubusercontent.com/github-production-release-asset/1364861807/b7a9baca-0582-4c78-8232-c4960c46f614?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-10T23%3A48%3A08Z&rscd=attachment%3B+filename%3DSentic.NAKZU.v1.0.-.Official.Release.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-10T22%3A47%3A35Z&ske=2026-09-10T23%3A48%3A08Z&sks=b&skv=2018-11-09&sig=4td4fr9kWk7v8WPION4tvUw1FFRWIO5kjM6evcgkpV4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTA4MzQzNiwibmJmIjoxNzg5MDgxNjM2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.CyBQSXxwLHc9KEvtRuMIAmHExuGo-n_6ybFMrFoOXjQ&response-content-disposition=attachment%3B%20filename%3DSentic.NAKZU.v1.0.-.Official.Release.zip&response-content-type=application%2Foctet-stream)
 
 ---
