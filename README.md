@@ -11,7 +11,7 @@
 
 ## 🚀 Installation & Usage
 1. Download the latest `Sentic-NAKZU.exe` from the **Releases** section.
-2. Run the application as **Administrator** (Required for network routing).
+2. Run the application as (Required for network routing).
 3. Import your VPN configuration (e.g., `vless://...`) or subscribe to Sentic Hosting nodes.
 4. Select your Mode (e.g., `[3] Bypass LAN`) and click **Start**.
 
