@@ -2,7 +2,7 @@
 
 **Sentic NAKZU v1** is a remastered, highly optimized network and VPN client powered by **Sentic Hosting**. Built upon the robust core of Netch, this customized client features an ultra-modern dark aesthetic, live telemetry integrations, and seamless performance for secure browsing, gaming, and professional use.
 
-📥 **[Download Sentic NAKZU v1 Now](https://github.com/seniya982/Sentic-NAKZU-VPN/releases/tag/v1.0.0)**
+📥 **[Download Sentic NAKZU v1 Now](https://github.com/seniya982/Sentic-NAKZU-VPN/releases/download/v1.0.0/Sentic.NAKZU.v1.0.-.Official.Release.zip)**
 
 ## ✨ Key Features
 * **Ultra-Modern UI:** Completely redesigned with a customized Dark Slate (`#050B14`), Neon Blue, and Dark Orange aesthetic for a premium, futuristic feel.
